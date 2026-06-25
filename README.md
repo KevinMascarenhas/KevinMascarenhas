@@ -1,6 +1,6 @@
-# Olá, eu sou um Programador Python
+# Olá, me chamo Kevin Mascarenhas.
 
-Sou desenvolvedor com foco em Python e atualmente estou aprofundando meus estudos em Ciência de Dados com Python.
+No momento, sou desenvolvedor back-end com foco em Python e atualmente estou aprofundando meus estudos em Ciência de Dados com Python.
 
 Tenho conhecimento em:
 - Python
