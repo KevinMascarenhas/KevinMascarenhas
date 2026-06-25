@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou um Programador Python
 
-<!--
-**KevinMascarenhas/KevinMascarenhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em Python e atualmente estou aprofundando meus estudos em Ciência de Dados com Python.
 
-Here are some ideas to get you started:
+Tenho conhecimento em:
+- Python
+- Java
+- JavaScript
+- C++
+- n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também desenvolvi recentemente uma API voltada para academias, o que me ajudou a fortalecer minha experiência com criação de serviços, integração de sistemas e desenvolvimento backend.
+
+## O que estou estudando agora
+- Ciência de dados com Python
+- Análise e manipulação de dados
+- Automação de processos
+- Desenvolvimento de APIs
+
+## Tecnologias e ferramentas
+- Python
+- Django
+- PostgreSQL
+- Java
+- JavaScript
+- C++
+- n8n
+- APIs REST
+- Git e GitHub
+
+## Sobre mim
+Gosto de aprender coisas novas, construir soluções práticas e evoluir constantemente como desenvolvedor.
+
+## Contato
+- LinkedIn: www.linkedin.com/in/kevin-mascarenhas-592901395
+- E-mail: kevinmascarenhasprofissional@gmail.com
