@@ -2,13 +2,6 @@
 
 No momento, sou desenvolvedor back-end com foco em Python e atualmente estou aprofundando meus estudos em Ciência de Dados com Python.
 
-Tenho conhecimento em:
-- Python
-- Java
-- JavaScript
-- C++
-- n8n
-
 Também desenvolvi recentemente uma API voltada para academias, o que me ajudou a fortalecer minha experiência com criação de serviços, integração de sistemas e desenvolvimento backend.
 
 ## O que estou estudando agora
