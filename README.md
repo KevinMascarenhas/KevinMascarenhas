@@ -10,13 +10,13 @@ Também desenvolvi recentemente uma API voltada para academias, o que me ajudou 
 - Automação de processos
 - Desenvolvimento de APIs
 
-## Tecnologias e ferramentas
+## Stack (Tecnologias e ferramentas)
 - Python
 - Django
 - PostgreSQL
 - Java
 - JavaScript
-- C++
+- C#
 - n8n
 - APIs REST
 - Git e GitHub
