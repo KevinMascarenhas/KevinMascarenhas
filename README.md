@@ -13,6 +13,7 @@ Também desenvolvi recentemente uma API voltada para academias, o que me ajudou 
 ## Stack (Tecnologias e ferramentas)
 - Python
 - Django
+- Streamlit
 - Flask
 - PostgreSQL
 - Java
