@@ -17,7 +17,6 @@ Também desenvolvi recentemente uma API voltada para academias, o que me ajudou 
 - PostgreSQL
 - Java
 - JavaScript
-- C#
 - n8n
 - APIs REST
 - Git e GitHub
