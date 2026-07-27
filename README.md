@@ -14,10 +14,10 @@ Também desenvolvi recentemente uma API voltada para academias, o que me ajudou 
 - Python
 - Django
 - Streamlit
-- Flask
+- pandas
+- MongoDB
 - PostgreSQL
 - Java
-- JavaScript
 - n8n
 - APIs REST
 - Git e GitHub
