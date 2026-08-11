@@ -4,12 +4,6 @@ No momento, sou desenvolvedor back-end com foco em Python e atualmente estou apr
 
 Também desenvolvi recentemente uma API voltada para academias, o que me ajudou a fortalecer minha experiência com criação de serviços, integração de sistemas e desenvolvimento backend.
 
-## O que estou estudando agora
-- Ciência de dados com Python
-- Análise e manipulação de dados
-- Automação de processos
-- Desenvolvimento de APIs
-
 ## Stack (Tecnologias e ferramentas)
 - Python
 - Django
