@@ -1,6 +1,6 @@
 # Olá, eu sou Kevin Mascarenhas! 👋
 
-Sou desenvolvedor **back-end**, com foco em **Python**.
+Sou desenvolvedor **back-end**, com mais conhecimento técnico em **Python**. Porém, estou sempre aberto para novas tecnologias e ferramentas.
 
 Recentemente, desenvolvi uma **API voltada para academias**, projeto que me ajudou a fortalecer minha experiência com desenvolvimento back-end, criação de serviços, bancos de dados e integração de sistemas.
 
