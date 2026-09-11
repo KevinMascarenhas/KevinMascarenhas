@@ -1,4 +1,4 @@
-# Olá, eu sou Kevin Mascarenhas! 👋
+# Kevin Mascarenhas
 
 Sou um engenheiro de Software em formação, com foco principalmente no ecossistema **Python** e interesse na construção de APIs, bancos de dados e integração entre sistemas.
 
@@ -47,6 +47,9 @@ Atualmente, estou desenvolvendo um projeto utilizando Dart e Flutter, com foco e
   </a>&nbsp;&nbsp;
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45"/>
   </a>
 </p>
 
