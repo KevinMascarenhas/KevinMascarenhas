@@ -2,9 +2,9 @@
 
 Sou um engenheiro de Software em formação, com foco principalmente no ecossistema **Python** e interesse na construção de APIs, bancos de dados e integração entre sistemas.
 
-Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento full-stack e mobile, enquanto exploro outras áreas da tecnologia. No começo de 2026, desenvolvi uma API voltada para academias, projeto no qual pude colocar em prática conceitos de desenvolvimento back-end, criação e documentação de serviços, persistência de dados e integração entre diferentes componentes de uma aplicação.
+Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento full-stack e mobile, enquanto exploro outras áreas da tecnologia. No começo de 2026, desenvolvi uma API voltada para o gerenciamento de academias, utilizando Python, Django, Django REST e PostgreSQL como banco de dados. Nesse projeto, pude colocar em prática conceitos de desenvolvimento back-end, criação e documentação de serviços, persistência de dados, autenticação JWT e integração entre diferentes componentes de uma aplicação.
 
-Atualmente, estou desenvolvendo um projeto utilizando Dart e Flutter, com foco em aprimorar meus conhecimentos e adquirir experiência prática no desenvolvimento de aplicações mobile.
+Atualmente, estou desenvolvendo uma aplicação mobile com abordagem offline-first, utilizando Dart e Flutter, com foco em aprimorar meus conhecimentos e adquirir experiência prática no desenvolvimento de aplicações mobile. Como parte desse mesmo projeto, desenvolvi uma API de sincronização de dados, usando TypeScript, NestJS e PostgreSQL hospedado no Supabase.
 
 ## Sobre mim
 
@@ -19,68 +19,30 @@ Atualmente, estou desenvolvendo um projeto utilizando Dart e Flutter, com foco e
 
 ### Linguagens
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
-  </a>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Frameworks
 
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45"/>
-  </a>
-</p>
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 ### Bancos de dados
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-</p>
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Ferramentas
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-       alt="Docker"
-       width="55"
-       height="55"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  </a>
-</p>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ## Contato
 
