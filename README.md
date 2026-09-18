@@ -2,9 +2,7 @@
 
 Sou um engenheiro de Software em formação, com foco principalmente no ecossistema **Python** e interesse na construção de APIs, bancos de dados e integração entre sistemas.
 
-Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento full-stack e mobile, enquanto exploro outras áreas da tecnologia, como Ciência de Dados.
-
-Recentemente, desenvolvi uma API voltada para academias, projeto no qual pude colocar em prática conceitos de desenvolvimento back-end, criação e documentação de serviços, persistência de dados e integração entre diferentes componentes de uma aplicação.
+Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento full-stack e mobile, enquanto exploro outras áreas da tecnologia. No começo de 2026, desenvolvi uma API voltada para academias, projeto no qual pude colocar em prática conceitos de desenvolvimento back-end, criação e documentação de serviços, persistência de dados e integração entre diferentes componentes de uma aplicação.
 
 Atualmente, estou desenvolvendo um projeto utilizando Dart e Flutter, com foco em aprimorar meus conhecimentos e adquirir experiência prática no desenvolvimento de aplicações mobile.
 
