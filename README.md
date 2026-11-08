@@ -1,7 +1,6 @@
 # Kevin Mascarenhas
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engenharia+de+Software;Desenvolvimento+de+Software;Banco+de+Dados+%26+Dados;Infraestrutura+%26+Redes;IoT+%26+Eletr%C3%B4nica;Intelig%C3%AAncia+Artificial" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engenharia+de+Software;Desenvolvimento+de+Software;Banco+de+Dados+%26+Dados;Infraestrutura+%26+Redes;IoT+%26+Eletr%C3%B4nica;Intelig%C3%AAncia+Artificial"/></p>
 
 Sou um engenheiro de Software em formação, com foco principalmente no ecossistema **Python** e interesse na construção de APIs, bancos de dados e integração entre sistemas.
 
