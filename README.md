@@ -1,7 +1,7 @@
 <h1 align="center">Kevin Mascarenhas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engenharia+de+Software+%7C+Software+Engineering;Back-end+%26+APIs;Banco+de+Dados+%26+Dados+%7C+Databases+%26+Data;Mobile+Offline-first;Infraestrutura+%26+Redes+%7C+Infrastructure+%26+Networking;IoT+%26+Eletr%C3%B4nica+%7C+IoT+%26+Electronics;Intelig%C3%AAncia+Artificial+%7C+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engenharia+de+Software+%7C+Software+Engineering;Full-Stack+%26+APIs;Banco+de+Dados+%26+Dados+%7C+Databases+%26+Data;Intelig%C3%AAncia+Artificial+%7C+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
